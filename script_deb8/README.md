@@ -5,7 +5,7 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, and PPTP VPN on
 
 - Debian 8 x86 & x64
 
-`apt-get -y install wget && wget https://raw.githubusercontent.com/reyluar18/premscript_rdcl/master/script_deb8/ffastdeb8 && chmod +x ffastdeb8 && ./ffastdeb8 && rm -f ffastdeb8 && history -c
+`apt-get -y install wget && wget https://git.io/fA4Rk && chmod +x ffastdeb8 && ./ffastdeb8 && rm -f ffastdeb8 && history -c
 
 
 
